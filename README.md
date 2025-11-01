@@ -1,2 +1,1 @@
-# Cuworkshop
-This is Aananaya Mathur's first repository
+HTML, CSS, Javascript based first Front End Development Project
